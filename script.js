@@ -14,7 +14,7 @@ function CalcularResultado(){
         ganhador = ('TIME A')
     }
     else if(timeB > timeA) {
-        ganhador = ('VITÓRIA DO TIME B')
+        ganhador = ('TIME B')
     }
     else {
         ganhador = ('EMPATE! FIZERAM A MESMA PONTUAÇÃO')
